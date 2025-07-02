@@ -17,7 +17,7 @@ This is a simple **React mini project** built using the `useState` hook. It demo
 
 ## 📸 Screenshot
 
-![Counter App Screenshot](screenshot.png)
+![Counter App Screenshot](src/assets/image.png)
 
 ## 📂 Getting Started
 
@@ -26,3 +26,4 @@ This is a simple **React mini project** built using the `useState` hook. It demo
 ```bash
 git clone https://github.com/your-username/counterApp.git
 
+```
